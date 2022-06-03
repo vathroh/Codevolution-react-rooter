@@ -13,7 +13,7 @@ const Users = () => {
       <Link to="/users/2">
         <h2>User 2</h2>
       </Link>
-      <Link to="/users/3">(
+      <Link to="/users/3">
         <h2>User 3</h2>
       </Link>
       <Outlet />
